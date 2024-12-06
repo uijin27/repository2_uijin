@@ -5,4 +5,5 @@ typedef struct Point
     int number;          // 순번
     char name[20];       // 이름
     char phone_num[20];  // 전화 번호
+    hello hello hello
 } Point;
